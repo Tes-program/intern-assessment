@@ -65,3 +65,7 @@ $ npm run test:watch
 <li>Attempt the assessment</li>
 <li>Send a link to your forked repository showing proof of work. Also add screenshots of 100% test case success</li>
 </ol>
+
+<h3><u>Submission Evidence</u></h3>
+<p>Below is a screenshot of the test case success</p>
+<img src="test_case.png"></img>
